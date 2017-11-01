@@ -2,25 +2,30 @@ html,body{
 	padding:0;
 	margin:0;
 	font-family: Verdana;
+	outline: 1px black dotted;
+}
+.empty{
+	height: 120px;
 }
 #opciones{
-	text-align: center;
-
-}
-#titulo{
-	text-align: center;
-	font-size: 25px;
-	margin-top: 7px;
-}
-#opciones span{
-	margin-left: 50px;
-	margin-right: 50px;
-	font-size: 20px;
+	text-align: right;
+	font-size: 15px;
+	padding: 10px;	
 }
 .opcion{
-	padding-bottom: 5px;
+	padding:2px;
 }
 .opcion:hover{	
 	border-bottom: 2px black solid;
 	cursor: pointer;
+}
+#titulo{
+	text-align: center;
+	font-size: 20px;
+	height: 150px;
+}
+#quienesSomos{
+	padding: 10px;
+	height: 150px;
+	border: 1px black dotted;
 }
