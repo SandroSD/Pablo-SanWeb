@@ -19,9 +19,9 @@
     $to      = 'sdezerio@gmail.com';
     $subject = $asunto;
     $message = $mensaje;
-    $headers = $headers = 'From: '.$nombre. "\r\n" .
-                          'Reply-To: '.$email. "\r\n" .
-                          'X-Mailer: PHP/' . phpversion();
+    $headers = 'From: '.$nombre. "\r\n" .
+               'Reply-To: '.$email. "\r\n" .
+               'X-Mailer: PHP/' . phpversion();
         
     
     mail($to, $subject, $message, $headers);

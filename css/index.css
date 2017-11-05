@@ -61,4 +61,17 @@ body, html {
 	  .bgimg-1, .bgimg-2, .bgimg-3 {
 		  background-attachment: scroll;
 	  }
-  }
+	}
+	
+	.error{
+    color:red;
+    font-weight:bold;
+    font-size:10px;
+    margin-left:5px;
+}
+.correcto{
+    color:green;
+    font-weight:bold;
+    font-size:10px;
+    margin-left:5px;
+}

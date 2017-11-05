@@ -46,7 +46,7 @@
   </div>
 </div>
 
-<div style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
+<div id="cont" style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-3"></div>
@@ -55,22 +55,26 @@
         <form action="" method="post" id="formulario">
           <div class="form-group">
             <label for="nombre">Nombre: </label>
-            <input type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre..." class="form-control"/>
+            <input type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre completo..." class="form-control"/>
+            <div id="nombreInfo" class="error"></div>
           </div>
           <div class="form-group">
             <label for="asunto">Asunto: </label>
             <input type="text" name="asunto" id="asunto" placeholder="Ingrese el asunto..." class="form-control"/>
+            <div id="asuntoInfo" class="error"></div>            
           </div>
           <div class="form-group">
             <label for="email">Mail: </label>
             <input type="text" name="email" id="email" placeholder="Ingrese su email..." class="form-control"/>
+            <div id="emailInfo" class="error"></div>            
           </div>
           <div class="form-group">
             <label for="mensaje">Mensaje: </label>
             <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control"></textarea>
+            <div id="mensajeInfo" class="error"></div>            
           </div>          
         </form>
-        <button type="submit" class="btn btn-success" id="enviar">Enviar Mail</button>
+        <button type="submit" class="btn btn-success" id="enviar" onclick="checkAndSend()">Enviar Mail</button>
       </div>
     </div> 
   </div>
