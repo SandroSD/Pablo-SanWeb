@@ -33,9 +33,8 @@
 <div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
     <p>Construimos soluciones a medida para maximizar el valor al producto. Para nosotros, cada proyecto es un desafío y un compromiso.</p>
-    <p>La WEB nos importa. Nos enfocamos en construir aplicaciones escalables en la nube.</p>
     <p>Mejoramos Experiencias. Actualizamos sistemas y nos enfocamos en crear ambientes de trabajo amigables y seguros.</p>
-
+    <p>La WEB nos importa. Nos enfocamos en construir aplicaciones escalables en la nube.</p> 
   </div>
 </div>
 
