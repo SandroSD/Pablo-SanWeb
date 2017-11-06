@@ -46,8 +46,30 @@
 
 <div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
-    <p>Sandro Dezerio. DESARROLLADOR WEB. Futuro ingeniero. Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.<p>
-    <p>Pablo Ratibel. PROGRAMADOR NERD. Ingeniero en proceso. Pablo es un entuciasta de trabajar en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos y jugar al futbol.</p>
+    <div class="row">  
+      <div class="col-sm-1">  </div>
+      <div class="col-sm-10"> 
+        <div class="col-sm-6">  
+          <h3 style="text-align:center;color: #f7f7f7;"> Sandro Dezerio </h3>
+          <p> DESARROLLADOR WEB <p>
+          <p> Futuro ingeniero. Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.
+          <br><br>
+          <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
+        </p>
+        </div>
+        <div class="col-sm-6"> 
+          <h3 style="text-align:center;color: #f7f7f7;"> Pablo Ratibel </h3>
+          <p> PROGRAMADOR NERD </p>
+          <p> Ingeniero en proceso. Pablo es un entuciasta de trabajar en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos y jugar al futbol.
+          <br><br>
+            <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
+          </p>
+        </div>
+      </div>
+      <div class="col-sm-1">  </div>
+    </div>
+    
+    
   </div>
 </div>
 
