@@ -52,16 +52,18 @@
         <div class="col-sm-6">  
           <h3 style="text-align:center;color: #f7f7f7;"> Sandro Dezerio </h3>
           <p> DESARROLLADOR WEB <p>
+          <img src="img/sandro.png"  id="sandroAnimado">
           <p> Futuro ingeniero. Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.
-          <br><br>
-          <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
-        </p>
+            
+            <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
+          </p>
         </div>
         <div class="col-sm-6"> 
           <h3 style="text-align:center;color: #f7f7f7;"> Pablo Ratibel </h3>
           <p> PROGRAMADOR NERD </p>
-          <p> Ingeniero en proceso. Pablo es un entuciasta de trabajar en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos y jugar al futbol.
-          <br><br>
+          <img src="img/pablo.png"  id="pabloAnimado">
+          <p> Ingeniero en proceso. Pablo es un entuciasta de trabajar en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos, hace poco descubrió el snowboard y le encanto.
+          
             <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
           </p>
         </div>
@@ -109,3 +111,4 @@
 
 </body>
 </html>
+
