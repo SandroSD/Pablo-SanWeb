@@ -16,7 +16,7 @@ body, html {
   }
   .bgimg-1 {	
 	background-image: url("../img/index2.jpg");
-	opacity: 0.5;
+	opacity: 0.75;
 	min-height: 100%;
   }
   
@@ -33,9 +33,9 @@ body, html {
 	}
 	
 	.bgimg-4 {	
-		background-image: url("../img/fondoContacto.jpg");
-		opacity: 0.5;
-		min-height: 100%;
+		background-image: url("../img/back3.png");
+		opacity: 0.9;
+		min-height: 100px;
 		}
   
   .caption {
