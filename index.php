@@ -33,8 +33,23 @@
 <div style="position:relative;">
   <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
     <p>Construimos soluciones a medida para maximizar el valor al producto. Para nosotros, cada proyecto es un desafío y un compromiso.</p>
-    <p>Mejoramos Experiencias. Actualizamos sistemas y nos enfocamos en crear ambientes de trabajo amigables y seguros.</p>
-    <p>La WEB nos importa. Nos enfocamos en construir aplicaciones escalables en la nube.</p> 
+    <div class="row">  
+      <div class="col-sm-1">  </div>
+      <div class="col-sm-10"> 
+        <div class="col-sm-6">  
+          <h3 style="text-align:center;color: #f7f7f7;"> Mejoramos Experiencias </h3>
+          <img src="img/build.png"  id="sistemasImg">
+          <p>Actualizamos sistemas y nos enfocamos en crear ambientes de trabajo amigables y seguros.</p>
+        </div>
+        
+        <div class="col-sm-6"> 
+          <h3 style="text-align:center;color: #f7f7f7;"> Generamos Arte Informático</h3>
+          <img src="img/desarrollo_web.png"  id="desarrolloImg">
+          <p>Nos enfocamos en construir aplicaciones escalables en la nube.</p>
+        </div>
+      </div>
+      <div class="col-sm-1">  </div>
+    </div>
   </div>
 </div>
 
@@ -53,7 +68,7 @@
           <h3 style="text-align:center;color: #f7f7f7;"> Sandro Dezerio </h3>
           <p> DESARROLLADOR WEB <p>
           <img src="img/sandro.png"  id="sandroAnimado">
-          <p> Futuro ingeniero. Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.
+          <p> Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.
             
             <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
           </p>
@@ -62,7 +77,7 @@
           <h3 style="text-align:center;color: #f7f7f7;"> Pablo Ratibel </h3>
           <p> PROGRAMADOR NERD </p>
           <img src="img/pablo.png"  id="pabloAnimado">
-          <p> Ingeniero en proceso. Pablo es un entuciasta de trabajar en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos, hace poco descubrió el snowboard y le encanto.
+          <p> Pablo es un entuciasta y trabaja en muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos, hace poco descubrió el snowboard y le encanto.
           
             <a href="http://pabloratibel.sytes.net" target="_blank">CV</a>
           </p>

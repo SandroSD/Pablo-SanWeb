@@ -30,7 +30,13 @@ body, html {
 		background-image: url("../img/back2.jpg");
 	opacity: 0.5;
 	min-height: 400px;
-  }
+	}
+	
+	.bgimg-4 {	
+		background-image: url("../img/fondoContacto.jpg");
+		opacity: 0.5;
+		min-height: 100%;
+		}
   
   .caption {
 	position: absolute;
@@ -84,4 +90,14 @@ body, html {
  #pabloAnimado{
 	width: 200px;
 	height: 250px;
+ }
+ 
+ #sistemasImg{
+	width: 200px;
+	height: 200px;
+ }
+
+ #desarrolloImg{
+	width: 200px;
+	height: 200px;
  }
