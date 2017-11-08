@@ -103,7 +103,9 @@ body, html {
  }
 
  #cont{	
-		background-image: url("../img/fondoContacto.jpg");
-		opacity: 0.5;
-		height: 100%;
- }
+	background-image: url("../img/back3.png");
+	opacity: 0.9;
+	min-height: 100px;
+}
+
+#cont .modal-backdrop { z-index: -1; }

@@ -95,47 +95,14 @@
   </div>
 </div>
 
-<<<<<<< HEAD
-<div id="cont">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-3"></div>
-      <div class="col-md-6">
-        <h3>Contacto:</h3>
-        <form action="" method="post" id="formulario">
-          <div class="form-group">
-            <label for="nombre">Nombre: </label>
-            <input type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre completo..." class="form-control"/>
-            <div id="nombreInfo" class="error"></div>
-          </div>
-          <div class="form-group">
-            <label for="asunto">Asunto: </label>
-            <input type="text" name="asunto" id="asunto" placeholder="Ingrese el asunto..." class="form-control"/>
-            <div id="asuntoInfo" class="error"></div>            
-          </div>
-          <div class="form-group">
-            <label for="email">Mail: </label>
-            <input type="text" name="email" id="email" placeholder="Ingrese su email..." class="form-control"/>
-            <div id="emailInfo" class="error"></div>            
-          </div>
-          <div class="form-group">
-            <label for="mensaje">Mensaje: </label>
-            <textarea name="mensaje" id="mensaje" cols="30" rows="10" class="form-control"></textarea>
-            <div id="mensajeInfo" class="error"></div>            
-          </div>          
-        </form>
-        <button type="submit" class="btn btn-success" id="enviar" onclick="checkAndSend()">Enviar Mail</button>
-      </div>
-    </div> 
-=======
-<div class="bgimg-4">
+<!--<div class="bgimg-4">-->
     <!--<span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">NUESTROS SERVICIOS</span>
   </div>
 </div>
 -->
   <div id="cont" style="color:#ddd;background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">
   <!--style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">-->
-    <div class="container-fluid">
+    <div  class="container-fluid">
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-6">
@@ -166,9 +133,8 @@
         </div>
       </div> 
     </div>
->>>>>>> beecd4802c85629ed6031b6727fcc01666f9a1f1
   </div>
-</div>
+<!--</div>-->
 </body>
 </html>
 
