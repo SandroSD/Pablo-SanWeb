@@ -16,7 +16,7 @@
         $mensaje = $_POST['mensaje'];
     }
 
-    $to      = 'sdezerio@gmail.com';
+    $to      = 'sdezerio@gmail.com, pabloratibel@gmail.com';
     $subject = $asunto;
     $message = $mensaje;
     $headers = 'From: '.$nombre. "\r\n" .

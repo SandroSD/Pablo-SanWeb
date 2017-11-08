@@ -101,3 +101,9 @@ body, html {
 	width: 200px;
 	height: 200px;
  }
+
+ #cont{	
+		background-image: url("../img/fondoContacto.jpg");
+		opacity: 0.5;
+		height: 100%;
+ }

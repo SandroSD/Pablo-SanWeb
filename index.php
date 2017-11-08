@@ -90,7 +90,7 @@
   </div>
 </div>
 
-<div id="cont" style="color: #777;background-color:white;text-align:center;padding:50px 80px;text-align: justify;">
+<div id="cont">
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-3"></div>
