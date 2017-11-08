@@ -13,7 +13,7 @@
 
 <div class="bgimg-1">
   <div class="caption">
-    <span class="border">SMART SOCKET</span>
+    <span class="border">SMART 360</span>
   </div>
 </div>
 
