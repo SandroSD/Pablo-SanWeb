@@ -108,8 +108,54 @@ body, html {
 	min-height: 100px;
 }
 
+/* SECCIÓN SERVICIOS */
+#contServicios{
+	color:#ddd;
+	background-color:#282E34;
+	text-align:center;
+	padding:50px 80px;
+	text-align: justify;
+	font-weight: bold;
+}
+#contServicios h3{
+	text-align: center;
+	color:#f7f7f7;
+}
+#contServicios img{
+	margin: 10px;
+}
+#tituloServicios{
+	text-align: center;
+	font-size: 22px;
+}
+#izqServicios, #derServicios{
+	text-align: center;
+}
+/* FIN SECCIÓN SERVICIOS */
 
+/* SECCIÓN EQUIPO */
+#contEquipo{
+	color:#ddd;
+	background-color:#282E34;
+	text-align:center;
+	padding:50px 80px;
+	text-align: justify;
+}
+#izqEquipo, #derEquipo{
+	text-align: center;
+}
+#izqEquipo a{
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+}
+#derEquipo a{
+	font-size: 20px;
+	color:white;
+	font-weight: bold;
+}
+/* FIN SECCIÓN EQUIPO */
 
-.modal-backdrop { z-index: -1; }
-.modal {z-index: -1;}
-#idDelModal{z-index: -1;}
+.modal-backdrop{
+	z-index: -1;
+}
