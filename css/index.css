@@ -5,7 +5,7 @@ body, html {
 	color: #777;
   }
   
-  .bgimg-1, .bgimg-2, .bgimg-3 {
+  .bgimg-1, .bgimg-2, .bgimg-3, .bgimg-4 {
 	position: relative;
 	opacity: 0.65;
 	background-attachment: fixed;
@@ -32,11 +32,11 @@ body, html {
 	min-height: 400px;
 	}
 	
-	.bgimg-4 {	
+  .bgimg-4 {	
 		background-image: url("../img/back3.png");
-		opacity: 0.9;
-		min-height: 100px;
-		}
+	opacity: 0.7;
+	min-height: 400px;
+	}
   
   .caption {
 	position: absolute;
@@ -92,6 +92,11 @@ body, html {
 	height: 250px;
  }
  
+#imgMail{
+	width: 25px;
+	height: 25px;
+ }
+
  #sistemasImg{
 	width: 200px;
 	height: 200px;
@@ -105,7 +110,7 @@ body, html {
  #cont{	
 	background-image: url("../img/back3.png");
 	opacity: 0.9;
-	min-height: 100px;
+	min-height: 400px;
 }
 
 /* SECCIÓN SERVICIOS */

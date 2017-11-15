@@ -13,7 +13,7 @@
 
 <div class="bgimg-1">
   <div class="caption">
-    <span class="border">INTELIGENCIA GLOBAL</span>
+    <span class="border">SMART 360</span>
   </div>
 </div>
 
@@ -21,7 +21,7 @@
 <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
   <h3 style="text-align:center;color: #f7f7f7;">¿Quiénes Somos?</h3>
   <p>Somos un grupo de estudiantes avanzados de la carrera de Ingeniería Informatica trabajando juntos, amantes de nuestro trabajo y plasmamos esa pasión en cada desarrollo. </p>
-  <p>Para nosotros, cada proyecto es un desafío y un compromiso.Nos intereza contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
+  <p>Para nosotros, cada proyecto es un desafío y un compromiso. Nos interesa contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
   principios fundamentales de nuestras relaciones comerciales.
   
   </p>
@@ -35,7 +35,7 @@
 
 <div class="container-fluid" style="position:relative;">
   <div class="row" id="contServicios">
-    <div class="col-md-12" id="tituloServicios">
+    <div class="col-md-12" id="tituloServicios" style="text-align: justify;">
     <p>Brindamos servicio personalizado, desarrollando la solución que mejor satisfaga las necesidades de cada proyecto.
   Ofrecemos servicios completos de Diseño de sitios Web, actualizacion y mantenimiento de sistemas informaticos y 
   desarrollo de sistemas. Nos caracterizamos por la creación de aplicaciones y sitios web auto administrables con sistemas de gestión veloces, intuitivos y fáciles de utilizar.</p>
@@ -78,13 +78,30 @@
   </div>
 </div>
 
+<div class="bgimg-2">
+  <div class="caption">
+    <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">CONTACTANOS</span>
+  </div>
+</div>
+
+<div class="container-fluid" style="position:relative;">
+  <div class="row" id="contServicios">
+    <div class="col-md-12" id="tituloServicios" style="text-align: justify;">
+    <p>Podés contactartactarnos por mail o encontrarnos en las redes sociales</p>
+    <a href="mailto:contacto@smart360.com.ar"><img src="img/icono-email.png"  id="imgMail" ></a>
+    <a href="mailto:contacto@smart360.com.ar">contacto@smart360.com.ar</a>
+    </div>
+    <p>Para otras consultas, completá el siguiente formulario para comunicarte con nosotros y acercarnos tus mensajes.</p>
+  </div>
+  
+</div>
 
 <div id="cont" style="color:#ddd;background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">  
     <div  class="container-fluid">
       <div class="row">
         <div class="col-md-3"></div>
         <div class="col-md-6">
-          <h3 style="color: #f7f7f7;">Contacto:</h3>
+          
           <form action="" method="post" id="formulario">
             <div class="form-group">
               <label for="nombre">Nombre: </label>
@@ -113,6 +130,7 @@
     </div>
   </div>
 <!--</div>-->
+
 </body>
 </html>
 
