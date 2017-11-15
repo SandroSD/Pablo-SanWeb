@@ -135,8 +135,8 @@ body, html {
 }
 
 #tituloServicios{
-	text-align: center;
-	font-size: 22px;
+	text-align: left;
+	font-size: 15px;
 }
 
 #izqServicios, #derServicios{
