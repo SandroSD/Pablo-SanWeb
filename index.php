@@ -70,7 +70,7 @@
       <p> Su experiencia en desarrollo web lo hace invencible. Sandro tiene interés especial por compartir su conocimiento a través de blogs, artículos y redes sociales. En su tiempo libre, disfruta ver series de televisión, y hacer cursos online.</p>
     </div>
     <div class="col-md-5" id="derEquipo">
-      <a href="http://pabloratibel.sytes.net" target="_blank" title="Click para ver el Curriculum Personal" >Pablo Ratibel</a>
+      <a href="http://pabloratibel.smart360.com.ar" target="_blank" title="Click para ver el Curriculum Personal" >Pablo Ratibel</a>
       <p>PROGRAMADOR NERD</p>
       <img src="img/pablo.png"  id="pabloAnimado" >
       <p> Pablo es un entuciasta y trabaja de muchas cosas, dicta clases en secundaria, mantiene sistemas y disfruta dando cursos de programacion para olimpiadas. En su tiempo libre, adora hacer viajes cortos con amigos, hace poco descubrió el snowboard y le encanto.</p>
