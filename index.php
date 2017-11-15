@@ -21,10 +21,7 @@
 <div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
   <h3 style="text-align:center;color: #f7f7f7;">¿Quiénes Somos?</h3>
   <p>Somos un grupo de estudiantes avanzados de la carrera de Ingeniería Informatica trabajando juntos, amantes de nuestro trabajo y plasmamos esa pasión en cada desarrollo. </p>
-  <p>Brindamos servicio personalizado, desarrollando la solución que mejor satisfaga las necesidades de cada proyecto.
-  Ofrecemos servicios completos de Diseño de sitios Web, actualizacion y mantenimiento de sistemas informaticos y 
-  desarrollo de sistemas. Nos caracterizamos por la creación de aplicaciones y sitios web auto administrables con sistemas de gestión veloces, intuitivos y fáciles de utilizar.</p>
-  <p>Nos intereza contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
+  <p>Para nosotros, cada proyecto es un desafío y un compromiso.Nos intereza contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
   principios fundamentales de nuestras relaciones comerciales.
   
   </p>
@@ -39,7 +36,9 @@
 <div class="container-fluid" style="position:relative;">
   <div class="row" id="contServicios">
     <div class="col-md-12" id="tituloServicios">
-      <p>Construimos soluciones a medida para maximizar el valor al producto. Para nosotros, cada proyecto es un desafío y un compromiso.</p>
+    <p>Brindamos servicio personalizado, desarrollando la solución que mejor satisfaga las necesidades de cada proyecto.
+  Ofrecemos servicios completos de Diseño de sitios Web, actualizacion y mantenimiento de sistemas informaticos y 
+  desarrollo de sistemas. Nos caracterizamos por la creación de aplicaciones y sitios web auto administrables con sistemas de gestión veloces, intuitivos y fáciles de utilizar.</p>
     </div>
     <div class="col-md-1"></div>
     <div class="col-md-5" id="izqServicios">
