@@ -46,7 +46,7 @@
       <img src="img/desarrollo_web.png"  id="desarrolloImg">
       <p>Nos enfocamos en construir aplicaciones escalables en la nube.</p>
     </div>
-    <div class="col-md-12" id="tituloServicios" style="text-align: justify;">
+    <div class="col-md-12" id="tituloServicios" >
     <p>Brindamos servicio personalizado, desarrollando la solución que mejor satisfaga las necesidades de cada proyecto.
   Ofrecemos servicios completos de Diseño de sitios Web, actualizacion y mantenimiento de sistemas informaticos y 
   desarrollo de sistemas. Nos caracterizamos por la creación de aplicaciones y sitios web auto administrables con sistemas de gestión veloces, intuitivos y fáciles de utilizar.</p>
