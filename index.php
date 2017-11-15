@@ -85,13 +85,14 @@
 </div>
 
 <div class="container-fluid" style="position:relative;">
-  <div class="row" id="contServicios">
-    <div class="col-md-12" id="tituloServicios" style="text-align: justify;">
+  <div class="row" id="contContaco">
+    <div class="col-md-12" >
     <p>Podés contactartactarnos por mail o encontrarnos en las redes sociales</p>
     <a href="mailto:contacto@smart360.com.ar"><img src="img/icono-email.png"  id="imgMail" ></a>
     <a href="mailto:contacto@smart360.com.ar">contacto@smart360.com.ar</a>
-    </div>
+    
     <p>Para otras consultas, completá el siguiente formulario para comunicarte con nosotros y acercarnos tus mensajes.</p>
+    </div>
   </div>
   
 </div>

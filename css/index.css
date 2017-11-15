@@ -124,22 +124,35 @@ body, html {
 	text-align: justify;
 	font-weight: bold;
 }
+
 #contServicios h3{
 	text-align: center;
 	color:#f7f7f7;
 }
+
 #contServicios img{
 	margin: 10px;
 }
+
 #tituloServicios{
 	text-align: center;
 	font-size: 22px;
 }
+
 #izqServicios, #derServicios{
 	text-align: center;
 }
 /* FIN SECCIÓN SERVICIOS */
 
+/* SECCIÓN CONTACTO */
+#contContaco{
+	color:#ddd;
+	background-color:#282E34;
+	text-align:center;
+	padding:50px 80px;
+	text-align: justify;
+}
+/* FIN SECCIÓN CONTACTO */
 /* SECCIÓN EQUIPO */
 #contEquipo{
 	color:#ddd;
