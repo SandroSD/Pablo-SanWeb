@@ -90,7 +90,10 @@
     <p>Podés contactarnos por mail o encontrarnos en las redes sociales</p>
     <a href="mailto:contacto@smart360.com.ar"><img src="img/icono-email.png"  id="imgMail" ></a>
     <a href="mailto:contacto@smart360.com.ar">contacto@smart360.com.ar</a>
-    
+    </br>
+    <a href="https://www.facebook.com/smartface360"><img src="img/icono-face.png"  id="imgFace" ></a>
+    <a href="https://www.facebook.com/smartface360">@smartface360</a>
+
     <p>Para mas consultas, completá el siguiente formulario para comunicarte con nosotros y acercarnos tus mensajes.</p>
     </div>
   </div>
