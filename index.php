@@ -8,6 +8,9 @@
   
   <script src="js/index.js"></script>
   <link rel="stylesheet" href="css/index.css">
+  <title> Smart 360</title>
+  <link rel="icon" type="image/png" href="img/logoSmart5.png" />
+
 </head>
 <body>
 
