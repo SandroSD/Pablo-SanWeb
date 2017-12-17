@@ -109,7 +109,7 @@
         <div class="col-md-3"></div>
         <div class="col-md-6">
           
-          <form action="" method="post" id="formulario">
+          <form action="" method="get" id="formulario">
             <div class="form-group">
               <label for="nombre">Nombre: </label>
               <input type="text" name="nombre" id="nombre" placeholder="Ingrese su nombre completo..." class="form-control"/>

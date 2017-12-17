@@ -1,19 +1,19 @@
 <?php
     /*echo "<pre>";
-    print_r($_POST['nombre']);
+    print_r($_GET);
     die();*/
 
-    if(isset($_POST['nombre'])){
-        $nombre = $_POST['nombre'];
+    if(isset($_GET['nombre'])){
+        $nombre = $_GET['nombre'];
     }
-    if(isset($_POST['asunto'])){
-        $asunto = $_POST['asunto'];
+    if(isset($_GET['asunto'])){
+        $asunto = $_GET['asunto'];
     }
-    if(isset($_POST['email'])){
-        $email = $_POST['email'];
+    if(isset($_GET['email'])){
+        $email = $_GET['email'];
     }
-    if(isset($_POST['mensaje'])){
-        $mensaje = $_POST['mensaje'];
+    if(isset($_GET['mensaje'])){
+        $mensaje = $_GET['mensaje'];
     }
 
     $to      = 'sdezerio@gmail.com, pabloratibel@gmail.com';

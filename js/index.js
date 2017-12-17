@@ -78,7 +78,7 @@ function checkAndSend(){
     if(flagNombre==0 && flagEmail==0 && flagMensaje==0){
         $.ajax({
             url: "checkAndSendMail.php",
-            type:"POST",
+            type:"GET",
             data: {
                 nombre: nombre,
                 asunto: asunto,
