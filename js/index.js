@@ -88,7 +88,7 @@ function checkAndSend(){
             success: function(result){
                 $.ajax({
                     url: "modalsCorreo/mailCorrecto.html",                    
-                    type:"POST",
+                    type:"GET",
                     data: {                        
                     },
                     success: function(result){
@@ -101,7 +101,7 @@ function checkAndSend(){
     }else{
         $.ajax({
             url: "modalsCorreo/mailIncorrecto.html",                    
-            type:"POST",
+            type:"GET",
             data: {                        
             },
             success: function(result){
