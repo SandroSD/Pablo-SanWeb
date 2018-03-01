@@ -78,7 +78,7 @@ function checkAndSend(){
     if(flagNombre==0 && flagEmail==0 && flagMensaje==0){
         $.ajax({
             url: "checkAndSendMail.php",
-            type:"GET",
+            type:"POST",
             data: {
                 nombre: nombre,
                 asunto: asunto,
@@ -100,7 +100,7 @@ function checkAndSend(){
         });
     }else{
         $.ajax({
-            url: "modalsCorreo/mailIncorrecto.html",                    
+            url: "/modalsCorreo/mailIncorrecto.html",                    
             type:"GET",
             data: {                        
             },
