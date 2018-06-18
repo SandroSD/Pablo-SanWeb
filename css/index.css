@@ -15,7 +15,7 @@ body, html {
   
   }
   .bgimg-1 {	
-	background-image: url("../img/indexSmart360.jpg");
+	background-image: url("../img/indexSmart360.svg");
 	opacity: 0.75;
 	min-height: 100%;
   }
@@ -33,7 +33,7 @@ body, html {
 	}
 	
   .bgimg-4 {	
-		background-image: url("../img/back3.png");
+		background-image: url("../img/back5.jpg");
 	opacity: 0.7;
 	min-height: 400px;
 	}
