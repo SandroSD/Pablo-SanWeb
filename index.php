@@ -16,23 +16,28 @@
 
 <div class="bgimg-1">
   <div class="caption">
-    <span class="border">SMART 360</span>
+    <!--span class="border">SMART 360</span-->
   </div>
 </div>
 
 
-<div style="color:#ddd;background-color:#282E34;text-align:center;padding:50px 80px;text-align: justify;">
-  <h3 style="text-align:center;color: #f7f7f7;">¿Quiénes Somos?</h3>
-  <p>Somos un grupo de estudiantes avanzados de la carrera de Ingeniería Informatica trabajando juntos, amantes de nuestro trabajo y plasmamos esa pasión en cada desarrollo. </p>
-  <p>Para nosotros, cada proyecto es un desafío y un compromiso. Nos interesa contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
-  principios fundamentales de nuestras relaciones comerciales.
-  
-  </p>
+<div class="container-fluid" style="position:relative;">
+  <div class="row" id="contQuienesSomos">
+    <div style="text-align:center;padding:50px 80px;text-align: justify;">
+      <!--h3 style="text-align:center;color: #f7f7f7;">¿Quiénes Somos?</h3-->
+      <h3 style="text-align:center;">¿Quiénes Somos?</h3>
+      <p>Somos un grupo de estudiantes avanzados de las carreras de Ingeniería Informatica, Relaciones Publicas, Marketing y Diseño Grafico trabajando juntos, amantes de nuestro trabajo y plasmamos esa pasión en cada desarrollo. </p>
+      <p>Para nosotros, cada proyecto es un desafío y un compromiso. Nos interesa contribuir en los proyectos y sentirnos partes de los mismos. Es por esa razón, que la transparencia y la honestidad son los 
+      principios fundamentales de nuestras relaciones comerciales.
+      
+      </p>
+    </div>
+  </div>
 </div>
 
-<div class="bgimg-2">
+<div class="bgimg-4">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">NUESTROS SERVICIOS</span>
+    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">NUESTROS SERVICIOS</span>
   </div>
 </div>
 
@@ -40,26 +45,26 @@
   <div class="row" id="contServicios">
     <div class="col-md-1"></div>
     <div class="col-md-5" id="izqServicios">
-      <h3> Mejoramos Experiencias </h3>
+      <h3> INGENIERÍA DE SOFTWARE </h3>
       <img src="img/build.png"  id="sistemasImg">
-      <p>Actualizamos sistemas y nos enfocamos en crear ambientes de trabajo amigables y seguros.</p>
+      <!--p>Actualizamos sistemas y nos enfocamos en crear ambientes de trabajo amigables y seguros.</p-->
     </div>
     <div class="col-md-5" id="derServicios">
-      <h3> Generamos Arte Informático</h3>
+      <h3>COMUNICACIÓN ORGANIZACIONAL</h3>
       <img src="img/desarrollo_web.png"  id="desarrolloImg">
-      <p>Nos enfocamos en construir aplicaciones escalables en la nube.</p>
+      <!--p>Nos enfocamos en construir aplicaciones escalables en la nube.</p-->
     </div>
     <div class="col-md-12" id="tituloServicios" >
-    <p>Brindamos servicio personalizado, desarrollando la solución que mejor satisfaga las necesidades de cada proyecto.
-  Ofrecemos servicios completos de Diseño de sitios Web, actualizacion y mantenimiento de sistemas informaticos y 
-  desarrollo de sistemas. Nos caracterizamos por la creación de aplicaciones y sitios web auto administrables con sistemas de gestión veloces, intuitivos y fáciles de utilizar.</p>
+    <p>En la actualidad, la publicidad ha sufrido un cambio de paradigma, dejando de ser la única herramienta válida para introducir un mensaje en el mercado, para convertirse en una metodología que requiere de planificación estratégica y de seguimiento diario. Es por ello que afirmamos que liderar exige comunicar estratégicamente.
+    <br>En Smart360 nos especializamos en el desarrollo de sistemas web y en la elaboración y publicación de contenidos digitales, como así también,  de su posterior monitoreo en redes sociales. A través del uso de distintas estrategias, buscamos atraer la atención e interés de los diferentes públicos que influyen en cada organización, con el fin último de lograr la fidelización de los mismos. 
+    </p>
     </div>
   </div>
 </div>
 
-<div class="bgimg-3">
+<div class="bgimg-2">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">NUESTRO EQUIPO</span>
+    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">NUESTRO EQUIPO</span>
   </div>
 </div>
 
@@ -83,7 +88,7 @@
 
 <div class="bgimg-2">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: #f7f7f7;">CONTACTANOS</span>
+    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">CONTACTANOS</span>
   </div>
 </div>
 
@@ -103,7 +108,7 @@
   
 </div>
 
-<div id="cont" style="color:#ddd;background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">  
+<div class="bgimg-3" style="color:#ddd;background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">  
     <div  class="container-fluid">
       <div class="row">
         <div class="col-md-3"></div>
