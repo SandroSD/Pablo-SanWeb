@@ -37,7 +37,7 @@
 
 <div class="bgimg-4">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">NUESTROS SERVICIOS</span>
+    <span class="border" style="background-color:transparent;font-size:25px;">NUESTROS SERVICIOS</span>
   </div>
 </div>
 
@@ -64,7 +64,7 @@
 
 <div class="bgimg-2">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">NUESTRO EQUIPO</span>
+    <span class="border" style="background-color:transparent;font-size:25px;">NUESTRO EQUIPO</span>
   </div>
 </div>
 
@@ -88,7 +88,7 @@
 
 <div class="bgimg-2">
   <div class="caption">
-    <span class="border" style="background-color:transparent;font-size:25px;color: rgba(100, 69, 47);">CONTACTANOS</span>
+    <span class="border" style="background-color:transparent;font-size:25px;">CONTACTANOS</span>
   </div>
 </div>
 
@@ -108,7 +108,7 @@
   
 </div>
 
-<div class="bgimg-3" style="color:#ddd;background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">  
+<div class="bgimg-3" style="background-color:transparent;text-align:center;padding:50px 80px;text-align: justify;">  
     <div  class="container-fluid">
       <div class="row">
         <div class="col-md-3"></div>
